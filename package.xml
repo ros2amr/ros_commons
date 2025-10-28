@@ -3,7 +3,7 @@
 
 <package format="3">
   <name>ros_commons</name>
-  <version>1.1.0</version>
+  <version>1.2.0</version>
   <description>Common ROS utilities.</description>
   <maintainer email="xperroni@gmail.com">Helio Perroni Filho</maintainer>
   <license>Apache-2.0</license>
