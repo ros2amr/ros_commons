@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+  <arg name="settings"/>
+  <node name="rviz" pkg="rviz2" exec="rviz2" args="-d $(var settings)"/>
+</launch>
